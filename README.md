@@ -13,4 +13,4 @@
 
 **6. Tradyflow - Analysis** ➡️ This dataset was obtained from [tradytics.com](https://tradytics.com/trady-flow) on the date **21st June 2022**. It could be possible by the time you get the code, you might not find the dataset on the website **tradytics.com** except for this Github repo. 
 
-**⬆️Still in progress⬆️***
+**⬆️Still in progress⬆️**
