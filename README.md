@@ -11,6 +11,9 @@
 
 **5. Netflix TV Shows and Movies - Analysis** ➡️ My favourite most project ever. I did this as a part of Certification by [Jovain](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas). I learned a lot from it, like A LOT. I used many plots, purely from matplotlib. It was really a decent project, which took me around 3 days to complete but totally worth it!
 
-**6. Tradyflow - Analysis** ➡️ This dataset was obtained from [tradytics.com](https://tradytics.com/trady-flow) on the date **21st June 2022**. It could be possible by the time you get the code, you might not find the dataset on the website **tradytics.com** except for this Github repo. 
+**6. Tradyflow - Analysis** ➡️ This dataset was obtained from [tradytics.com](https://tradytics.com/trady-flow) on the date **21st June 2022**. It could be possible by the time you get the code, you might not find the dataset on the website **tradytics.com** except for this Github repo. This project was very fun to do. This was the first project in which I used pandas a lot. From basic manipulation to detailed and deep filtering. It took me a few days but was totally worth it. Loved and totally enjoyed it. 
 
-**⬆️Still in progress⬆️**
+
+
+## Contributions
+Am always open to pull requests and contributions. I'll surely add them in the project! Fork it and feel free to add whatever you want, even if it is a basic 2-D Bar graph 🤝🏻
