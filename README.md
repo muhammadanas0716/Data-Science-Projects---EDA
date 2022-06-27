@@ -11,7 +11,11 @@
 
 **5. Netflix TV Shows and Movies - Analysis** ➡️ My favourite most project ever. I did this as a part of Certification by [Jovain](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas). I learned a lot from it, like A LOT. I used many plots, purely from matplotlib. It was really a decent project, which took me around 3 days to complete but totally worth it!
 
-**6. Tradyflow - Analysis** ➡️ This dataset was obtained from [tradytics.com](https://tradytics.com/trady-flow) on the date **21st June 2022**. It could be possible by the time you get the code, you might not find the dataset on the website **tradytics.com** except for this Github repo. This project was very fun to do. This was the first project in which I used pandas a lot. From basic manipulation to detailed and deep filtering. It took me a few days but was totally worth it. Loved and totally enjoyed it. 
+**6. Tradyflow - Analysis** ➡️ This dataset was obtained from [tradytics.com](https://tradytics.com/trady-flow) on the date **21st June 2022**. It could be possible by the time you get the code, you might not find the dataset on the website **tradytics.com** except for this Github repo. This project was very fun to do. This was the first project in which I used pandas a lot. From basic manipulation to detailed and deep filtering. It took me a few days but was totally worth it. Loved and totally enjoyed it.
+
+**7. Iris Dataset - Analysis** ➡️ I thought, I should do some EDA on this dataset. First due to it's popualrity and secondly to pratice EDA on a very small dataset, as such as this one. This is still in progress as this is a slighly diffcult project, due to it's sheer simplicity. Haha, I'm bad at this  
+
+**8. Titanic - EDA from sheer Disaster** ➡️ Well, the widely known Titanic Dataset by Kaggle. I had to do some EDA on this. I have used many new and updated plots in this project as I had actually refreshed my Seaborn memory, thanks to Derek Benas, I was able to make some dope visualizations. Go have a look and let me know how it is! I'm sure you'll love it and hopefully learn as well!
 
 
 
