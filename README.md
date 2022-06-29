@@ -29,7 +29,10 @@
 
 
 ## How to run the code?
-Well, just download the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter-notebook`.
+Well, just download the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter notebook`. This will open up a browser window as shown. Click on any folder and open the file inside that folder!
+
+![image](https://user-images.githubusercontent.com/81016607/176420569-628ef125-0e53-4480-a5f2-028420713c1d.png)
+
 
 ## Contributions
 Am always open to pull requests and contributions. I'll surely add them in the project! Fork it and feel free to add whatever you want, even if it is a basic 2-D Bar graph 🤝🏻
