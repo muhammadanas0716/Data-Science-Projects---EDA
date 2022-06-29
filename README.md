@@ -29,7 +29,7 @@
 
 
 ## How to run the code?
-Well, just download the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter notebook`. This will open up a browser window as shown. Click on any folder and open the file inside that folder!
+Well, just [download](https://github.com/muhammadanas365/Data-Science-Projects---EDA/archive/refs/heads/main.zip) the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter notebook`. This will open up a browser window as shown. Click on any folder and open the file inside that folder!
 
 ![image](https://user-images.githubusercontent.com/81016607/176420569-628ef125-0e53-4480-a5f2-028420713c1d.png)
 
