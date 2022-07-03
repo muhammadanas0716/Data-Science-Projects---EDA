@@ -39,6 +39,3 @@ Am always open to pull requests and contributions. I'll surely add them in the p
 
 ## Lisence
 Feel Free to use this code anywhere you'd like! But if you do make any changes, do let me know so I can add that feature in the project! Ofcourse, if you want me to!
-
-## Note
-For now, I've done a decent amount of projects here, so I won't be updating this in a while. If any of you are willing to contribute - I'd love that! But I myself, won't be updating much. If I get something in mind to add, I shall - otherwise, I won't I'm moving towards Machine Learning now, and very soon I will make similar projects, including EDA and Machine learning! 
