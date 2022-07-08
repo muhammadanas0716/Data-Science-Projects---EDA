@@ -25,8 +25,9 @@
 **8. Titanic - EDA from sheer Disaster** ➡️ Well, the widely known [Titanic Dataset by Kaggle](https://www.kaggle.com/competitions/titanic/data). I had to do some EDA on this. I have used many new and updated plots in this project as I had actually refreshed my Seaborn memory, thanks to Derek Benas, I was able to make some dope visualizations. Go have a look and let me know how it is! I'm sure you'll love it and hopefully learn as well!
 
 
-**9. California Housing Dataset - Analysis** ➡️ You must have surely heard of this beauty. The CA dataset is awesome for begginer data scintists to check their skills! Totally begginer freindly and very intuitive as well as fun to use. This dataset also helped to refine my **data-cleaning** skills, which I must say is a very crucial part to Exploratory Data Analysis. I enjoyed playing with this jem! Al
+**9. California Housing Dataset - Analysis** ➡️ You must have surely heard of this beauty. The CA dataset is awesome for begginer data scientists to check their skills! Totally begginer freindly and very intuitive as well as fun to use. This dataset also helped to refine my **data-cleaning** skills, which I must say is a very crucial part to Exploratory Data Analysis. I enjoyed playing with this jem! Al
 
+**10. Mobile Prices - Analysis** ➡️ This may not be the best EDA out of these projects here, but should do the trick. The main purpose of this dataset was to get my hands dirty regarding Data Cleaning and I was able to do so. Hopefully the next project will be much much better - containing many more and improved visualizations!
 
 ## How to run the code?
 Well, just [download](https://github.com/muhammadanas365/Data-Science-Projects---EDA/archive/refs/heads/main.zip) the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter notebook`. This will open up a browser window as shown. Click on any folder and open the file inside that folder!
