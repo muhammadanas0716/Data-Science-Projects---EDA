@@ -27,10 +27,9 @@
 
 **9. California Housing Dataset - Analysis** ➡️ You must have surely heard of this beauty. The CA dataset is awesome for begginer data scientists to check their skills! Totally begginer freindly and very intuitive as well as fun to use. This dataset also helped to refine my **data-cleaning** skills, which I must say is a very crucial part to Exploratory Data Analysis. I enjoyed playing with this jem! Al
 
+
 **10. Mobile Prices - Analysis** ➡️ This may not be the best EDA out of these projects here, but should do the trick. The main purpose of this dataset was to get my hands dirty regarding Data Cleaning and I was able to do so. Hopefully the next project will be much much better - containing many more and improved visualizations!
 
-
-**NOTE: There are 3 more folders, with ONLY 4 dataset inside of them. I'm working on the EDA on these datasets, I'll keep updating this README.md file as I add the notebooks!
 
 ## How to run the code?
 Well, just [download](https://github.com/muhammadanas365/Data-Science-Projects---EDA/archive/refs/heads/main.zip) the repo and fire up your terminal. Fire up your terminal, type in `pip install -r requirements.txt`. Once completed, run `jupyter notebook`. This will open up a browser window as shown. Click on any folder and open the file inside that folder!
