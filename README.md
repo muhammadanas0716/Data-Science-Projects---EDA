@@ -6,7 +6,7 @@
 **2. Flights Prices - Analysis** ➡️ Another dataset from [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction), all about flight prices. I did a very comprehensive EDA on it. It was fun as I learned many new plots and explored!!
 
 
-**3. Salary Dataset - Analysis** ➡️ It was an awsome project, truely loved it. It was regading some salaries of devs in India. It was a small dataset, yet you could do so much! Check it out to see what I did!!
+**3. Salary Dataset - Analysis** ➡️ It was an awsome project, truely loved it. It was regading some salaries of devs in India. It was a small dataset, yet you could do so much! Check it out to see what I did!
 
 
 **4. Forbes Richest Poeple - Analysis** ➡️ Ahh, didn't go so well - actually got bored. The project still isn't complete. If you find it interesting, feel free to comeplete the project. I'd love the contibution!!
