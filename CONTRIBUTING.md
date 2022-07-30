@@ -13,7 +13,7 @@ If there is something unclear of the style, just look at existing code which mig
 ## Submitting Patches
 When you think the code is ready for review a pull request should be created on Github. 
 I shall watch out for new PR‘s and review them in regular intervals. 
-By default for each change in the PR we automatically run all the tests via Travis CI. 
+By default for each change in the PR we automatically run all the tests.
 If tests are failing make sure to address the failures immediately. Otherwise you can wait for a review. 
 If comments have been given in a review, they have to get integrated. 
 For those changes a separate commit should be created and pushed to your remote development branch. 
@@ -21,8 +21,4 @@ Don’t forget to add a comment in the PR afterward, so everyone gets notified b
 Keep in mind that reviews can span multiple cycles until the owners are happy with the new code.
 
 ## Merging Pull Requests
-Once a PR is in its final state it needs to be merged into the upstream master branch. For that please DO NOT use the Github merge button! 
-But merge it yourself on the command line. Reason is that we want to hvae a clean history.
-Before pushing the changes to upstream master make sure that all individual commits have been squashed into a single one with a 
-commit message ending with the issue number, e.g. “Fix for broken download behavior (#45)”. Also check with git log to not push merge commits. O
-nly merge PRs where Travis does not report any failure!
+Once, I've reviewed the code, I'll hopefully merge it!
