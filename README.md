@@ -4,7 +4,7 @@ Author:  Muhammad Anas
 
 The projects I've done over the course of time for praticing my EDA and Data Science Skills. You can check the code out and also learn!
  
-Documentation can be found in [[wiki]]
+Documentation can be found in [wiki](https://github.com/muhammadanas365/Data-Science-Projects---EDA/wiki)
 
 ## Contribution
 
@@ -12,6 +12,6 @@ I amm always open to pull requests and contributions. I'll surely add them in th
 
 Please  see the following:
 
-[[CODE_OF_CONDUCT.md]]
+[CODE_OF_CONDUCT.md](https://github.com/muhammadanas365/Data-Science-Projects---EDA/blob/main/CODE_OF_CONDUCT.md)
 
-[[CONTRIBUTING.md]]
+[CONTRIBUTING.md](https://github.com/muhammadanas365/Data-Science-Projects---EDA/blob/main/CONTRIBUTING.md)
