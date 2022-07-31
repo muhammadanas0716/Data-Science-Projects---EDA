@@ -6,9 +6,11 @@ This repo contaoins the projects I've done over the course of time for praticing
  
 Documentation can be found in [wiki](https://github.com/muhammadanas0716/Data-Science-Projects---EDA/wiki). This'll help you understand why I made this project, it's contents and some other deatils.
 
+Also have a look at my Kaggle profile: ***https://www.kaggle.com/muhammadanas0716***
+
 ## Contribution
 
-I'm always open to pull requests and contributions. I'll surely add them in the project! Fork it and feel free to add whatever you want, even if it is a basic 2-D Bar graph!
+I'm always open to pull requests and contributions. I'll surely add them in the project! Fork it and feel free to add whatever you like, even if it's basic 2-D Bar graph!
 
 Please  see the following before you contibute:
 
